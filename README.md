@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <strong>Bashur Syed</strong></h1>
 <h3 align="center">👨‍💻 <strong>Software Engineer | Full Stack Developer | NET Solution Architect</strong></h3>
-<h4 align="center">.NET • Azure • Software Architecture • Microservices • DevOps • Docker • K8s • • ReactJs • Entity Framework • SQL </h4>
+<h4 align="center">.NET • Azure • Software Architecture • Microservices • DevOps • Docker • K8s  • ReactJs • Entity Framework • SQL </h4>
 
 ---
 
