@@ -9,11 +9,9 @@
 
 I am **Bashur Syed**. I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, React and Entity Framework**.
 
-At ScholarHat, my mission is bigger than teaching—
+**💡 I aim to create world-class Products to build and solve real industry problems with confidence.**
 
-**💡 I aim to create world-class engineers who can build, innovate, and solve real industry problems with confidence.**
-
-I believe that knowledge means nothing without hands-on experience, and every developer deserves access to practical, industry-grade learning that accelerates their career.
+I believe that knowledge means nothing without hands-on experience.
 
 ### 📌 Highlights
 With a passion for transforming how technology is learned and applied, I have:
