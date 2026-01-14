@@ -65,8 +65,7 @@ With a passion for transforming how technology is learned and applied, I have:
 -  [.NET Solution Architect](https://www.scholarhat.com/job-oriented)
 
 ### Udemy ** Courses**
-- 📘 <a href="https://www.scholarhat.com/free-course/azure-fundamentals-course">Azure Fundamentals</a>  
-- ☁️ <a href="https://www.scholarhat.com/free-course/aws-cloud-practitioner-course">AWS Cloud Practitioner</a>  
+- 📘 <a href="https://www.scholarhat.com/free-course/azure-fundamentals-course">Azure Fundamentals</a>    
 - 🧩 <a href="https://www.scholarhat.com/free-course/asp-net-core-course">ASP.NET Core</a>   
 - 🤖 <a href="https://www.scholarhat.com/free-course/azure-ai-900-fundamentals-certification-training">Azure AI Fundamentals (AI-900)</a>  
 - 🗄️ <a href="https://www.scholarhat.com/free-course/sql-server-course">SQL Server</a>   
